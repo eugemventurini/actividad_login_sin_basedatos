@@ -1,0 +1,17 @@
+C:\Users\eugen\actividad_login_sin_basedatos\BugTrucker\bin\Debug\net6.0-windows\BugTrucker.exe
+C:\Users\eugen\actividad_login_sin_basedatos\BugTrucker\bin\Debug\net6.0-windows\BugTrucker.deps.json
+C:\Users\eugen\actividad_login_sin_basedatos\BugTrucker\bin\Debug\net6.0-windows\BugTrucker.runtimeconfig.json
+C:\Users\eugen\actividad_login_sin_basedatos\BugTrucker\bin\Debug\net6.0-windows\BugTrucker.dll
+C:\Users\eugen\actividad_login_sin_basedatos\BugTrucker\bin\Debug\net6.0-windows\BugTrucker.pdb
+C:\Users\eugen\actividad_login_sin_basedatos\BugTrucker\obj\Debug\net6.0-windows\BugTrucker.csproj.AssemblyReference.cache
+C:\Users\eugen\actividad_login_sin_basedatos\BugTrucker\obj\Debug\net6.0-windows\BugTrucker.FormularioLogin.resources
+C:\Users\eugen\actividad_login_sin_basedatos\BugTrucker\obj\Debug\net6.0-windows\BugTrucker.csproj.GenerateResource.cache
+C:\Users\eugen\actividad_login_sin_basedatos\BugTrucker\obj\Debug\net6.0-windows\BugTrucker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eugen\actividad_login_sin_basedatos\BugTrucker\obj\Debug\net6.0-windows\BugTrucker.AssemblyInfoInputs.cache
+C:\Users\eugen\actividad_login_sin_basedatos\BugTrucker\obj\Debug\net6.0-windows\BugTrucker.AssemblyInfo.cs
+C:\Users\eugen\actividad_login_sin_basedatos\BugTrucker\obj\Debug\net6.0-windows\BugTrucker.csproj.CoreCompileInputs.cache
+C:\Users\eugen\actividad_login_sin_basedatos\BugTrucker\obj\Debug\net6.0-windows\BugTrucker.dll
+C:\Users\eugen\actividad_login_sin_basedatos\BugTrucker\obj\Debug\net6.0-windows\refint\BugTrucker.dll
+C:\Users\eugen\actividad_login_sin_basedatos\BugTrucker\obj\Debug\net6.0-windows\BugTrucker.pdb
+C:\Users\eugen\actividad_login_sin_basedatos\BugTrucker\obj\Debug\net6.0-windows\BugTrucker.genruntimeconfig.cache
+C:\Users\eugen\actividad_login_sin_basedatos\BugTrucker\obj\Debug\net6.0-windows\ref\BugTrucker.dll
